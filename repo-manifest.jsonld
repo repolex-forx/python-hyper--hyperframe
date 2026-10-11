@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-hyper/hyperframe/commit/632e309bf6d76d6a3cd04e3cbc0b006eddbf7056",
       "git:hexsha": "632e309bf6d76d6a3cd04e3cbc0b006eddbf7056",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:52:18.012118+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-hyper/hyperframe/commit/b25af0a0089f355ead56f71abe8945b4c195c62d",
