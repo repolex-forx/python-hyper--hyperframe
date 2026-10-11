@@ -1,0 +1,7 @@
+[2026-10-11T23:51:14Z] === AST ITERATION 1 START | repo=python-hyper/hyperframe sha=632e309b ===
+[2026-10-11T23:51:14Z] [iter=1] PHASE START: ast repo=python-hyper/hyperframe sha=632e309b
+[2026-10-11T23:51:14Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T23:51:20Z] [iter=1] AST chunks built count=1 triples=82899
+[2026-10-11T23:51:20Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/632e309bf6d76d6a3cd04e3cbc0b006eddbf7056/.complete
+[2026-10-11T23:51:20Z] [iter=1] PHASE END: ast elapsed_s=6 elapsed_min=0.1
+[2026-10-11T23:51:20Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
